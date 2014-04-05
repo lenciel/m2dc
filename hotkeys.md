@@ -6,7 +6,7 @@ keyword: hotkey tools-i-use
 
 | Name                               | Command     | Note |
 | ------                             | -----       |      |
-| Filters                            | CMD-CTRL-L  |      |
+| Sleep Screen                       | CMD-CTRL-L  |      |
 [Global]
 
 ---
